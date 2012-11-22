@@ -1,6 +1,8 @@
 Secure Storage
 ==============
 
+[![Build Status](https://secure.travis-ci.org/ytjohn/securestore.png?branch=master)](https://travis-ci.org/ytjohn/securestore)
+
 This module will store AES-256 encrypted strings (called tokens) in an sqlite
 database. If access is gained to the datastore, the contents can not be read.
 
